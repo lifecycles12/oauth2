@@ -17,7 +17,7 @@ export default function Home() {
       <div
         id="g_id_onload"
         data-client_id="133371587644-7n18jbuhnqdv8m32dtnb3jt9j0qk4qfl.apps.googleusercontent.com"
-        data-login_uri="http://localhost:3000/"
+        data-login_uri="https://oauth2-nine.vercel.app/"
         data-auto_prompt="false"
       ></div>
       <div
